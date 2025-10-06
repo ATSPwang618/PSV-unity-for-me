@@ -38,6 +38,18 @@ psv-unity自用工具集合
 
 因此，请记住在编译最终版本时删除插件和调试脚本。
 
+## 一些有趣的项目
+
+- unity里的x86虚拟机
+  
+https://github.com/ZUXTUO/Unity3D-based_X86_VirtualMachine
+
+https://github.com/douglasbarnes/vmcs/tree/master
+
+https://github.com/jfd16/Mariana
+
+as3代码解释器c#版
+
 ## 发布文件说明：
 <img width="636" height="205" alt="image" src="https://github.com/user-attachments/assets/f287a483-35a6-464e-8fa7-57443e81fc41" />
 
